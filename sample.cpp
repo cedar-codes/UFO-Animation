@@ -47,8 +47,8 @@
 //		6. The transformations to be reset
 //		7. The program to quit
 //
-//	Author:			Rachel Hoeferlin
-//  Date:			11/04/24
+//  Author:		Rachel Hoeferlin
+//  Date:		11/04/24
 //  Description:	Project 4-Animation, CS450
 //  Files Used:		keytime.cpp, setlight.cpp, osutorus.cpp, osusphere.cpp, cow.obj, loadobjfile.cpp
 
